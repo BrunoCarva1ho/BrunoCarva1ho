@@ -1,4 +1,6 @@
 Bruno Carvalho
+Sistemas de Informação
+Universidade Federal de Ouro Preto
 
 <!--
 **BrunoCarva1ho/BrunoCarva1ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
