@@ -1,6 +1,7 @@
-Bruno Carvalho
-Sistemas de Informação
-Universidade Federal de Ouro Preto
+Bruno Carvalho -
+Sistemas de Informação -
+Universidade Federal de Ouro Preto 
+
 
 <!--
 **BrunoCarva1ho/BrunoCarva1ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
   
   Atualmente Focado em:
   <div style="display: inline">
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </div>
