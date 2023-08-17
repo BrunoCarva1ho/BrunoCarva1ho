@@ -47,10 +47,10 @@ Here are some ideas to get you started:
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </div>
   </div>
-</div>
-<!--
+</div><br><br>
+
 <div>
-<a href="https://github.com/BrunoCarva1ho">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarva1ho&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/BrunoCarva1ho">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarva1ho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
