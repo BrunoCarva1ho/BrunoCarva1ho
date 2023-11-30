@@ -42,8 +42,8 @@ Here are some ideas to get you started:
   
   Atualmente Focado em:
   <div style="display: inline">
-    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <!-- <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />-->
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </div>
   </div>
