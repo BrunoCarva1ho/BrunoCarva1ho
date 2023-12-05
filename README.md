@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div>
+<body>
+  <div>
   <div>
   <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
@@ -34,8 +34,7 @@ Here are some ideas to get you started:
   Já desenvolvi aplicações com:
   <div>
      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"
-       style="background-color:white;"/>
+     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
      <!--<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />-->
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
@@ -43,10 +42,12 @@ Here are some ideas to get you started:
   </div>
 
   </div>
-</div><br><br>
+  </div><br><br>
+  
+  <div>
+    <a href="https://github.com/BrunoCarva1ho">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarva1ho&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+</body>
 
-<div>
-  <a href="https://github.com/BrunoCarva1ho">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarva1ho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
