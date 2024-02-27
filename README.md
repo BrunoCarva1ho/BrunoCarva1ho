@@ -1,4 +1,3 @@
-Bruno Carvalho -
 Sistemas de Informação -
 Universidade Federal de Ouro Preto 
 
